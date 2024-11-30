@@ -14,4 +14,5 @@
 
 # spring framework 6
 - core
-  - 
+  - jakarta injection
+  - jakarta postContruction, preDestroy
