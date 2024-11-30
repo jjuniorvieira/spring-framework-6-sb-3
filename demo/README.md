@@ -16,3 +16,5 @@
 - core
   - jakarta injection
   - jakarta postContruction, preDestroy
+- spring boot
+  - Controller is required
